@@ -35,7 +35,7 @@ Bu projeyi başlatmak için şu adımları izleyin:
 
 Proje canlı olarak GitHub Pages üzerinde yayınlanmaktadır. Aşağıdaki bağlantıyı kullanarak projeyi görebilirsiniz:
 
-[Canlı Projeyi Görüntüle](https://<kullanici-adiniz>.github.io/<repo-adiniz>)
+[Canlı Projeyi Görüntüle](https://pokedexguide38.netlify.app/)
 
 Projeyi inceleyebilir ve kullanabilirsiniz. 
 
